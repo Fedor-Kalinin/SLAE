@@ -38,10 +38,12 @@ class DenMatrix
 
         T size() const;
 
-        std::vector<T> getRows(u64 i)  const;
-        std::vector<T> getCols(u64 j) const;
+        u64 getRows()  const;
+        u64 getCols() const;
 
-        std::vector<T> getData() const;
+        const std::vector<T>& getvalue() const;
+
+        u64 norm();
 
 };
 

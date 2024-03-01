@@ -120,3 +120,20 @@ DenMatrix<T> DenMatrix<T>::transpose() const
     return DenMatrix(trans, rows);
 }
 
+template<typename T>
+u64 DenMatrix<T>::getRows() const 
+{
+    return rows;
+}
+
+template<typename T>
+u64 DenMatrix<T>::getCols() const 
+{
+    return cols;
+}
+
+template<typename T>
+const std::vector<T>& DenMatrix<T>::getvalue() const 
+{
+    return data;
+}
