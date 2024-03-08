@@ -1,5 +1,0 @@
-/mnt/c/fuckingcodes/4term/SLAE/CMakeFiles/edit_cache.dir
-/mnt/c/fuckingcodes/4term/SLAE/CMakeFiles/rebuild_cache.dir
-/mnt/c/fuckingcodes/4term/SLAE/src/CMakeFiles/SLAE.dir
-/mnt/c/fuckingcodes/4term/SLAE/src/CMakeFiles/edit_cache.dir
-/mnt/c/fuckingcodes/4term/SLAE/src/CMakeFiles/rebuild_cache.dir
