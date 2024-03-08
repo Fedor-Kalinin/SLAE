@@ -1,0 +1,2 @@
+/usr/bin/ar qc libSLAE.a CMakeFiles/SLAE.dir/CSR.cpp.o CMakeFiles/SLAE.dir/Dense.cpp.o CMakeFiles/SLAE.dir/QR.cpp.o CMakeFiles/SLAE.dir/samogonka.cpp.o
+/usr/bin/ranlib libSLAE.a
